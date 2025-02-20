@@ -5,6 +5,7 @@ import phaser from "phaser"
 // Sie im letzten Beispiel geschrieben haben.
 import LoadingScene from "./scenes/loading-scene.js"
 import Level00 from "./scenes/levels/level-00.js"
+import Level01 from "./scenes/levels/level-01.js"
 
 // Das hier ist die Konfiguration für das Spiel. Sie müssen nicht alle Teile
 // davon verstehen. Die meisten sind recht selbsterklärend.
